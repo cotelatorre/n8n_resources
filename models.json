@@ -1,16 +1,22 @@
 {
   "models": [
-    { "name": "openai", "description": "OpenAI GPT-4.1-mini" },
+    { "name": "openai", "description": "OpenAI GPT-5 Nano" },
     { "name": "openai-fast", "description": "OpenAI GPT-4.1-nano" },
     { "name": "openai-large", "description": "OpenAI GPT-4.1" },
-    { "name": "grok", "description": "xAI Grok-3 Mini" },
-    { "name": "qwen", "description": "Qwen 2.5 Coder 32B" },
-    { "name": "llama", "description": "Llama 3.3 70B" },
-    { "name": "llamascout", "description": "Llama 4 Scout 17B" },
+    { "name": "openai-reasoning", "description": "openai/o4-mini" },    
+    { "name": "gpt-5-nano", "description": "OpenAI GPT-5 Nano" },
+    { "name": "gemini", "description": "gemini" },
+    { "name": "qwen-coder", "description": "Qwen 2.5 Coder 32B" },    
+    { "name": "roblox-rp", "description": "Llama 3.1 8B Instruct" },
+    { "name": "bidara", "description": "BIDARA (Biomimetic Designer and Research Assistant by NASA)" },    
+    { "name": "nova-fast", "description": "Amazon Nova Micro" },
     { "name": "mistral", "description": "Mistral Small 3.1 24B" },
     { "name": "evil", "description": "Evil AI Experimental" },
+    { "name": "midijourney", "description": "MIDIjourney" },
+    { "name": "mirexa", "description": "Mirexa AI Companion" },
+    { "name": "rtist", "description": "Rtist" },
+    { "name": "unity", "description": "Unity Unrestricted Agent" },
     { "name": "deepseek-reasoning", "description": "DeepSeek R1 - MAI-DS-R1" },
-    { "name": "deepseek", "description": "DeepSeek-V3" },
     { "name": "sur", "description": "Sur AI Assistant (Mistral)" }
   ]
 }
